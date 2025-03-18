@@ -1,2 +1,2 @@
-# Credit-Card-Analysis
-Logistic Model as well as Quantization of Fico Scores from simulated credit card data 
+# Credit-Risk-Analysis
+Logistic Model for credit risk analysis as well as FICO bucketing 
